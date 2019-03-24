@@ -8,7 +8,7 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 
 
 # Inspiration
-Diabetes has got many vicitms. I built this machine learning model to accurately predict whether or not the patients in the dataset  have diabetes or not. I tested my ML model with my father's details, it yielded me accurate results as expected.
+Diabetes has got many vicitms. I built this machine learning model to accurately predict whether the patients in the dataset  have diabetes or not. I tested my ML model with my father's details, it yielded me accurate results as expected.
 
 # Skills Used:
 1. Python3
